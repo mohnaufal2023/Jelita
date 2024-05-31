@@ -147,12 +147,14 @@ footer h2 {
   max-width: 800px;
   margin: 0 auto;
   text-align: center;
+  
 }
 
 .contact-info img {
   height: 30px;
   margin: 0 10px;
   vertical-align: middle;
+  
 }
 
 .contact-info p {
@@ -220,4 +222,24 @@ footer h2 {
     padding: 8px 16px;
     font-size: 14px;
   }
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:  #5c2d91;
+    margin-top: 20px;
+}
+
+footer h2 {
+    font-size: 1.5em;
+}
+
+.footer-content {
+    margin-top: 20px;
+}
+
+.footer-content p {
+    font-size: 1em;
+    color: #fcfbfb;
 }
